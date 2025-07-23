@@ -16,4 +16,11 @@ To process MRI images, we used the open-source tools Statistical Parametric Mapp
 run 'model_train.py'. (The code for the model module will be open-sourced during the manuscript accepted.)
 
 ### 4、Model
+model:
 ![model](./images/model.jpg "model")
+
+SHConv:
+
+![SHConv](./images/SHConv.jpg "SHConv")
+
+
