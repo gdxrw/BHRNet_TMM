@@ -1,4 +1,4 @@
-# SHRNet:Symmetrical Hemispherical Convolution and Regional Offset Scoring for Brain Image Analysis
+# BHRNet:Bidirectional Hemispherical Convolution and Regional Offset Scoring for Brain Image Analysis
 ## Usage
 ### 1、Data
 Available:  https://ADNI.loni.usc.edu
